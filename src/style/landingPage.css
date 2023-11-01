@@ -1,0 +1,81 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/trater.jpeg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.about-kontol {
+    
+}
+
+.tittle {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.tranding {
+    height: auto;
+    background: url("../assets/bleach2.jpeg");
+    background-size: cover;
+}
+
+.superhero {
+    height: auto;
+    background: url("../assets/SuperHero/bg-cover.jpeg");
+    background-size: cover;
+}
+
+.buts {
+    position: fixed;
+    bottom: 100px;
+    right: 330px;
+}
+
+.movieWrapper {}
+
+.babi {
+    color: black;
+    position: fixed;
+    bottom: 35%;
+    right: 35px;
+    font-size: 2rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 2;
+}
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.movieImage2 {
+    position: fixed;
+    bottom: 55px;
+    left: 120px;
+    height: 525px;
+    width: 525px;
+
+}
+.images {
+    height: 500px;
+}
+
+.about {
+    display: flexbox;
+    height: 681px;
+    background-color: black;
+    justify-content: end;
+    align-items: end;
+}
